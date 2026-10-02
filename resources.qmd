@@ -17,4 +17,6 @@ Interactive demonstrations and practice activities designed to help students bui
 
 Interactive R coding exercises designed to give students additional practice applying the programming skills used in introductory biostatistics. The activities focus on common tasks such as working with data, calculating summary statistics, creating visualizations, and applying basic statistical methods.
 
+*This resource is currently being built and will be updated periodically during the fall of 2026*
+
 [Visit my Coding Practice Resources](https://haleykgrant.github.io/CodingPractice/)
