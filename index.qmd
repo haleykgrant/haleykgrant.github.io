@@ -45,32 +45,3 @@ I am particularly interested in helping students develop statistical reasoning a
 
 :::
 
-## Teaching
-
-I teach biostatistics and health data science to students across the University of Pittsburgh School of Public Health, including students in biostatistics, epidemiology, health policy and management, human genetics, and other public health programs.
-
-My teaching emphasizes intuition, real data, simulation, visualization, and understanding *why* statistical methods work.
-
-[Learn more about my teaching →](teaching.qmd)
-
-## Research & applied work
-
-My collaborative work uses real-world health data to address clinical and public health questions, with a particular focus on large health-system and network datasets and obesity care.
-
-
-## Teaching resources
-
-I develop open-access resources and interactive tools for learning introductory biostatistics and R.
-
-[Visit my Intro Biostatistics Resources →](https://haleykgrant.github.io/IntroBiostatResources/)
-
-[Visit my Coding Practice Resources →](https://haleykgrant.github.io/CodingPractice/)
-
-## Contact
-
-**Haley Grant**  
-Assistant Professor of Biostatistics and Health Data Science  
-Department of Biostatistics and Health Data Science  
-University of Pittsburgh School of Public Health
-
-[haleyg@pitt.edu](mailto:haleyg@pitt.edu)
