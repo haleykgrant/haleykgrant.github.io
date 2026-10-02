@@ -1,0 +1,20 @@
+---
+title: "Teaching Resources"
+---
+
+
+## Teaching resources
+
+I develop open-access materials and interactive tools for learning introductory biostatistics and R. I have created these resources for use in class to demonstrate statistical concepts and outside of class for students to review concepts, practice coding, and explore additional examples.
+
+### Intro Biostatistics Resources
+
+Interactive demonstrations and practice activities designed to help students build intuition for foundational biostatistical concepts. The site includes visualizations, simulations, and interactive examples that students can use to explore statistical ideas and see how changing data or assumptions affects the results.
+
+[Visit my Intro Biostatistics Resources](https://haleykgrant.github.io/IntroBiostatResources/)
+
+### Coding Practice Resources
+
+Interactive R coding exercises designed to give students additional practice applying the programming skills used in introductory biostatistics. The activities focus on common tasks such as working with data, calculating summary statistics, creating visualizations, and applying basic statistical methods.
+
+[Visit my Coding Practice Resources](https://haleykgrant.github.io/CodingPractice/)

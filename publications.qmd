@@ -1,34 +1,35 @@
 ---
 title: "Publications"
-description-meta: "Information, pdfs, and social metrics of papers"
-#page-layout: full
-#back-to-top-navigation: true
-title-block-banner: false
-css: custom.css
 ---
 
+## Peer-reviewed articles
 
-<!--Include academic icons or buttons-->
-{{< include /files/includes/_academic.qmd >}}
+1. Mao, Z., Grant, H., Costacou, T., Ding, Y., Dashti, H. S., Newman, A. B., & Farsijani, S. (in press). A data-driven trajectory analysis reveals associations between temporal patterns of within-day energy intake and mortality risk in U.S. adults: NHANES 2005–2018. *European Journal of Nutrition*.
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
+2. Pénisson, S., Weischer, M., Li, L., Zhang, Y., Grant, H., et al. (2026). Hyperplasia functions as a link between obesity and cancer. *Cancer Research*.
 
-Total citations as of January 2025:
+3. Case, S. J., Sabik, L., & Grant, H. (2026). Factors associated with long covid among cancer survivors: A population-based analysis. *Cancer Epidemiology, 100*, 102984.
 
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
+4. Mao, Z., Grant, H., Kritchevsky, S. B., Newman, A. B., & Farsijani, S. (2025). Association of eating window with mortality among US adults: Insights from a nationally representative study. *Aging Cell, 24*, e70230.
 
-## Selected Work
+5. Alsaied, T., Li, R., Grant, H., et al. (2025). Defining diastolic dysfunction post-Fontan: Threshold, risk factors, and associations with outcomes. *American Heart Journal, 290*, 288–296.
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+6. Lahouel, K., Douville, C., Diergaarde, B., Cohen, J. D., Grant, H., et al. (2025). A blood-based assay for detection of patients with advanced adenomas. *Cancer Research Communications, 5*(4), 621–631.
 
+7. Alsaied, T., Li, R., Grant, H., et al. (2025). CMR associations of diastolic dysfunction in Fontan patients: A FORCE registry study. *Journal of Cardiovascular Magnetic Resonance, 27*.
 
-<center><hr style="width:50%"></center>
+8. Bober, T., Cameron, F., Alexander, L., et al. (2025). Characterizing obesity: A qualitative study. *Obesity Pillars, 14*, 100174.
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+9. Douville, C., Lahouel, K., Kuo, A., Grant, H., et al. (2024). Machine learning to detect the signs of cancer. *Science Translational Medicine, 16*(731).
 
+## Published abstracts
 
+- Lavenburg, L. M., Gao, Y., Grant, H., et al. (2024). Characterizing obesity and the use of available treatments in a large academic health system. *Obesity, 32*, 94.
+- Akshintala, V. S., Grant, H., Han, S., et al. (2020). Development of a machine learning based decision making tool to determine risk and timing of recurrence of Barrett's Esophagus after complete eradication of intestinal metaplasia. *Gastroenterology, 158*(6), S-814–S-815.
 
-<!--Include social share buttons-->
+## Presentations
 
-{{< include /files/includes/_socialshare.qmd >}}
+- Lavenburg, L.-M., Grant, H., Gao, Y., et al. (2025). Differences in weight classification and cardio-kidney-metabolic related diagnoses in Asians using standard versus Asian-specific body mass index thresholds. University of Pittsburgh Department of Medicine Research Day.
+- Lavenburg, L.-M., Gao, Y., Grant, H., et al. (2024). Characterizing obesity and the use of available treatments in a large academic health system. Obesity Week, San Antonio, TX.
+- Wichmann, H., Lee, E.-M., Elishaev, E., Taylor, S., Grant, H., & Donnellan, N. (2024). Atypical endometriosis and malignancy. American Association of Gynecologic Laparoscopists, New Orleans, LA.
+- Bober, T., Cameron, F., Richardson, S., et al. (2024). Patients, providers, and payers have varying perspectives on managing obesity but all view obesity as an important disease to address. Society of General Internal Medicine, Boston, MA.

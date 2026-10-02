@@ -1,67 +1,78 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
-title-block-banner: false
 ---
 
+## Teaching philosophy
 
-## Class 1
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 1 introduction.
-
-:::
-
-:::
+I am interested in helping students develop statistical reasoning rather than simply memorize statistical procedures. My teaching emphasizes understanding why statistical methods work, connecting methods to real research questions, and using R to explore data.
 
 
-## Class 2
+## Courses at the University of Pittsburgh
 
-::: {.grid}
+### BIOST 2041: Introduction to Statistical Methods
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+**Graduate | Primary Instructor | 2023–present**
 
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
-
-:::
-
-:::
+Introductory biostatistics course for graduate students in public health.
 
 
-## Class 3
+### BIOST 2141: Biostatistical Methods
 
-::: {.grid}
+*Formerly BIOST 2039*
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
+**Graduate | Primary Instructor | 2023–present**
 
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
-
-:::
-
-:::
+Graduate-level biostatistics course covering foundational statistical methods for public health students.
 
 
+
+### BIOST 2142: Applied Regression Analysis
+
+*Formerly BIOST 2049*
+
+**Graduate | Primary Instructor | 2024–present**
+
+Applied regression course emphasizing the use and interpretation of regression methods in public health research.
+
+
+### PUBHLT 0413: Data to Prediction: Machine Learning for Public Health
+
+**Undergraduate | Primary Instructor | 2026**
+
+Undergraduate course introducing machine learning methods for public health. The course emphasizes practical model building, comparison of classification methods, model evaluation, and interpretation of predictive models.
+
+## Earlier teaching
+
+Before joining the University of Pittsburgh, I taught and assisted with graduate biostatistics courses at Johns Hopkins University.
+
+Courses included:
+
+- Statistical Methods in Public Health I, II, and III
+- Methods in Biostatistics II
+- Data Analysis Workshop I
+- Advanced Methods in Biostatistics III and IV
+
+I served as a lead teaching assistant and lab instructor for several of these courses.
+
+## Other teaching
+
+I have also given guest lectures for **PUBHLT 0100: Fundamentals of Public Health** at the University of Pittsburgh across multiple semesters.
+
+## Teaching recognition
+
+### James L. Craig Excellence in Education Award
+
+**University of Pittsburgh School of Public Health | 2025**
+
+
+### Helen Abbey Award for Excellence in Teaching
+
+**Johns Hopkins University Department of Biostatistics | 2023**
+
+## Teaching resources
+
+I develop open-access materials and interactive tools for learning introductory biostatistics and R.
+
+[Visit my Intro Biostatistics Resources](https://haleykgrant.github.io/IntroBiostat)
+
+[Visit my Coding Practice Resources](https://haleykgrant.github.io/CodingPractice/)

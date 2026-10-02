@@ -1,24 +1,24 @@
 ---
 title: "Contact"
-description-meta: "Reach out to me with questions and comments"
-title-block-banner: false
 ---
 
-<center>
+## Haley Grant
 
-**Quarto Academic**
+Assistant Professor of Biostatistics and Health Data Science
 
-School
+Department of Biostatistics and Health Data Science  
+University of Pittsburgh School of Public Health
 
-College
+**Email:** [haleyg@pitt.edu](mailto:haleyg@pitt.edu)
 
-University
+Pittsburgh, Pennsylvania
 
-Address: 
+## Curriculum vitae
 
-Phone: 
+[Download my CV](files/Grant_CV2026.pdf)
 
-E-mail: 
+## Teaching resources
 
+[Intro Biostatistics Resources](https://haleykgrant.github.io/IntroBiostatResources/)
 
-</center>
+[GitHub repository](https://github.com/haleykgrant/IntroBiostatResources)

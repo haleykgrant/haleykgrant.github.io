@@ -4,28 +4,84 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Mao, Z., Grant, H., Costacou, T., Ding, Y., Dashti, H. S., Newman, A. B., & Farsijani, S. (in press). A data-driven trajectory analysis reveals associations between temporal patterns of within-day energy intake and mortality risk in U.S. adults: NHANES 2005–2018. European Journal of Nutrition.\nPénisson, S., Weischer, M., Li, L., Zhang, Y., Grant, H., et al. (2026). Hyperplasia functions as a link between obesity and cancer. Cancer Research.\nCase, S. J., Sabik, L., & Grant, H. (2026). Factors associated with long covid among cancer survivors: A population-based analysis. Cancer Epidemiology, 100, 102984.\nMao, Z., Grant, H., Kritchevsky, S. B., Newman, A. B., & Farsijani, S. (2025). Association of eating window with mortality among US adults: Insights from a nationally representative study. Aging Cell, 24, e70230.\nAlsaied, T., Li, R., Grant, H., et al. (2025). Defining diastolic dysfunction post-Fontan: Threshold, risk factors, and associations with outcomes. American Heart Journal, 290, 288–296.\nLahouel, K., Douville, C., Diergaarde, B., Cohen, J. D., Grant, H., et al. (2025). A blood-based assay for detection of patients with advanced adenomas. Cancer Research Communications, 5(4), 621–631.\nAlsaied, T., Li, R., Grant, H., et al. (2025). CMR associations of diastolic dysfunction in Fontan patients: A FORCE registry study. Journal of Cardiovascular Magnetic Resonance, 27.\nBober, T., Cameron, F., Alexander, L., et al. (2025). Characterizing obesity: A qualitative study. Obesity Pillars, 14, 100174.\nDouville, C., Lahouel, K., Kuo, A., Grant, H., et al. (2024). Machine learning to detect the signs of cancer. Science Translational Medicine, 16(731)."
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
     "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "section": "",
+    "text": "Mao, Z., Grant, H., Costacou, T., Ding, Y., Dashti, H. S., Newman, A. B., & Farsijani, S. (in press). A data-driven trajectory analysis reveals associations between temporal patterns of within-day energy intake and mortality risk in U.S. adults: NHANES 2005–2018. European Journal of Nutrition.\nPénisson, S., Weischer, M., Li, L., Zhang, Y., Grant, H., et al. (2026). Hyperplasia functions as a link between obesity and cancer. Cancer Research.\nCase, S. J., Sabik, L., & Grant, H. (2026). Factors associated with long covid among cancer survivors: A population-based analysis. Cancer Epidemiology, 100, 102984.\nMao, Z., Grant, H., Kritchevsky, S. B., Newman, A. B., & Farsijani, S. (2025). Association of eating window with mortality among US adults: Insights from a nationally representative study. Aging Cell, 24, e70230.\nAlsaied, T., Li, R., Grant, H., et al. (2025). Defining diastolic dysfunction post-Fontan: Threshold, risk factors, and associations with outcomes. American Heart Journal, 290, 288–296.\nLahouel, K., Douville, C., Diergaarde, B., Cohen, J. D., Grant, H., et al. (2025). A blood-based assay for detection of patients with advanced adenomas. Cancer Research Communications, 5(4), 621–631.\nAlsaied, T., Li, R., Grant, H., et al. (2025). CMR associations of diastolic dysfunction in Fontan patients: A FORCE registry study. Journal of Cardiovascular Magnetic Resonance, 27.\nBober, T., Cameron, F., Alexander, L., et al. (2025). Characterizing obesity: A qualitative study. Obesity Pillars, 14, 100174.\nDouville, C., Lahouel, K., Kuo, A., Grant, H., et al. (2024). Machine learning to detect the signs of cancer. Science Translational Medicine, 16(731)."
+  },
+  {
+    "objectID": "publications.html#published-abstracts",
+    "href": "publications.html#published-abstracts",
+    "title": "Publications",
+    "section": "Published abstracts",
+    "text": "Published abstracts\n\nLavenburg, L. M., Gao, Y., Grant, H., et al. (2024). Characterizing obesity and the use of available treatments in a large academic health system. Obesity, 32, 94.\nAkshintala, V. S., Grant, H., Han, S., et al. (2020). Development of a machine learning based decision making tool to determine risk and timing of recurrence of Barrett’s Esophagus after complete eradication of intestinal metaplasia. Gastroenterology, 158(6), S-814–S-815."
+  },
+  {
+    "objectID": "publications.html#presentations",
+    "href": "publications.html#presentations",
+    "title": "Publications",
+    "section": "Presentations",
+    "text": "Presentations\n\nLavenburg, L.-M., Grant, H., Gao, Y., et al. (2025). Differences in weight classification and cardio-kidney-metabolic related diagnoses in Asians using standard versus Asian-specific body mass index thresholds. University of Pittsburgh Department of Medicine Research Day.\nLavenburg, L.-M., Gao, Y., Grant, H., et al. (2024). Characterizing obesity and the use of available treatments in a large academic health system. Obesity Week, San Antonio, TX.\nWichmann, H., Lee, E.-M., Elishaev, E., Taylor, S., Grant, H., & Donnellan, N. (2024). Atypical endometriosis and malignancy. American Association of Gynecologic Laparoscopists, New Orleans, LA.\nBober, T., Cameron, F., Richardson, S., et al. (2024). Patients, providers, and payers have varying perspectives on managing obesity but all view obesity as an important disease to address. Society of General Internal Medicine, Boston, MA."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Research & Applied Work",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+    "text": "My academic interests include:\n\nStatistics education\nLarge network electronic health record data analysis\nObesity care"
+  },
+  {
+    "objectID": "projects.html#research-interests",
+    "href": "projects.html#research-interests",
+    "title": "Research & Applied Work",
+    "section": "",
+    "text": "My academic interests include:\n\nStatistics education\nLarge network electronic health record data analysis\nObesity care"
+  },
+  {
+    "objectID": "projects.html#large-scale-health-data",
+    "href": "projects.html#large-scale-health-data",
+    "title": "Research & Applied Work",
+    "section": "Large-scale health data",
+    "text": "Large-scale health data\nMy collaborative work includes the analysis of large electronic health record and health-system datasets to address clinical and public health questions.\nI have worked with network and PCORnet data on questions related to obesity, chronic disease, health-care delivery, and clinical outcomes."
+  },
+  {
+    "objectID": "projects.html#obesity-and-cardiometabolic-health",
+    "href": "projects.html#obesity-and-cardiometabolic-health",
+    "title": "Research & Applied Work",
+    "section": "Obesity and cardiometabolic health",
+    "text": "Obesity and cardiometabolic health\nA major area of my applied work is obesity care and the use of real-world health data to understand obesity treatment and related health outcomes.\nRecent projects have examined obesity care in large academic health systems and patterns of weight classification and cardiometabolic diagnoses."
+  },
+  {
+    "objectID": "projects.html#biostatistical-collaboration",
+    "href": "projects.html#biostatistical-collaboration",
+    "title": "Research & Applied Work",
+    "section": "Biostatistical collaboration",
+    "text": "Biostatistical collaboration\nI provide statistical collaboration through the University of Pittsburgh Clinical and Translational Science Institute.\nFrom 2023–2026, I served as a statistical consultant and analyst on multiple new and continuing CTSI BERD requests each year."
+  },
+  {
+    "objectID": "projects.html#data-and-safety-monitoring",
+    "href": "projects.html#data-and-safety-monitoring",
+    "title": "Research & Applied Work",
+    "section": "Data and Safety Monitoring",
+    "text": "Data and Safety Monitoring\nI serve as a biostatistician on Data and Safety Monitoring Boards for clinical trials at the University of Pittsburgh.\nCurrent and recent DSMB service has included trials involving:\n\nThermal injury\nPolycystic kidney disease\nOverdose prevention\nHemorrhagic shock\nPrehospital analgesia\nSystemic sclerosis"
+  },
+  {
+    "objectID": "projects.html#funded-collaborative-work",
+    "href": "projects.html#funded-collaborative-work",
+    "title": "Research & Applied Work",
+    "section": "Funded collaborative work",
+    "text": "Funded collaborative work\nMy current and recent collaborative work has been supported by:\n\nPCORI through PCORnet\nThe University of Pittsburgh Clinical and Translational Science Institute\nIndustry-sponsored research\n\nI have served as a co-investigator on projects involving obesity, atopic dermatitis, health-care access, and clinical research."
   },
   {
     "objectID": "posts/news-title/index.html",
@@ -60,111 +116,167 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "I am interested in helping students develop statistical reasoning rather than simply memorize statistical procedures. My teaching emphasizes understanding why statistical methods work, connecting methods to real research questions, and using R to explore data."
   },
   {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "I am interested in helping students develop statistical reasoning rather than simply memorize statistical procedures. My teaching emphasizes understanding why statistical methods work, connecting methods to real research questions, and using R to explore data."
   },
   {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
+    "objectID": "teaching.html#courses-at-the-university-of-pittsburgh",
+    "href": "teaching.html#courses-at-the-university-of-pittsburgh",
     "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
+    "section": "Courses at the University of Pittsburgh",
+    "text": "Courses at the University of Pittsburgh\n\nBIOST 2041: Introduction to Statistical Methods\nGraduate | Primary Instructor | 2023–present\nIntroductory biostatistics course for graduate students in public health.\n\n\nBIOST 2141: Biostatistical Methods\nFormerly BIOST 2039\nGraduate | Primary Instructor | 2023–present\nGraduate-level biostatistics course covering foundational statistical methods for public health students.\n\n\nBIOST 2142: Applied Regression Analysis\nFormerly BIOST 2049\nGraduate | Primary Instructor | 2024–present\nApplied regression course emphasizing the use and interpretation of regression methods in public health research.\n\n\nPUBHLT 0413: Data to Prediction: Machine Learning for Public Health\nUndergraduate | Primary Instructor | 2026\nUndergraduate course introducing machine learning methods for public health. The course emphasizes practical model building, comparison of classification methods, model evaluation, and interpretation of predictive models."
   },
   {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
+    "objectID": "teaching.html#earlier-teaching",
+    "href": "teaching.html#earlier-teaching",
     "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+    "section": "Earlier teaching",
+    "text": "Earlier teaching\nBefore joining the University of Pittsburgh, I taught and assisted with graduate biostatistics courses at Johns Hopkins University.\nCourses included:\n\nStatistical Methods in Public Health I, II, and III\nMethods in Biostatistics II\nData Analysis Workshop I\nAdvanced Methods in Biostatistics III and IV\n\nI served as a lead teaching assistant and lab instructor for several of these courses."
+  },
+  {
+    "objectID": "teaching.html#other-teaching",
+    "href": "teaching.html#other-teaching",
+    "title": "Teaching",
+    "section": "Other teaching",
+    "text": "Other teaching\nI have also given guest lectures for PUBHLT 0100: Fundamentals of Public Health at the University of Pittsburgh across multiple semesters."
+  },
+  {
+    "objectID": "teaching.html#teaching-recognition",
+    "href": "teaching.html#teaching-recognition",
+    "title": "Teaching",
+    "section": "Teaching recognition",
+    "text": "Teaching recognition\n\nJames L. Craig Excellence in Education Award\nUniversity of Pittsburgh School of Public Health | 2025\n\n\nHelen Abbey Award for Excellence in Teaching\nJohns Hopkins University Department of Biostatistics | 2023"
+  },
+  {
+    "objectID": "teaching.html#teaching-resources",
+    "href": "teaching.html#teaching-resources",
+    "title": "Teaching",
+    "section": "Teaching resources",
+    "text": "Teaching resources\nI develop open-access materials and interactive tools for learning introductory biostatistics and R.\nVisit my Intro Biostatistics Resources\nVisit my Coding Practice Resources"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "Assistant Professor of Biostatistics and Health Data Science\nDepartment of Biostatistics and Health Data Science\nUniversity of Pittsburgh School of Public Health\nEmail: haleyg at pitt dot edu\nPittsburgh, Pennsylvania"
+  },
+  {
+    "objectID": "contact.html#haley-grant",
+    "href": "contact.html#haley-grant",
+    "title": "Contact",
+    "section": "",
+    "text": "Assistant Professor of Biostatistics and Health Data Science\nDepartment of Biostatistics and Health Data Science\nUniversity of Pittsburgh School of Public Health\nEmail: haleyg at pitt dot edu\nPittsburgh, Pennsylvania"
+  },
+  {
+    "objectID": "contact.html#curriculum-vitae",
+    "href": "contact.html#curriculum-vitae",
+    "title": "Contact",
+    "section": "Curriculum vitae",
+    "text": "Curriculum vitae\nDownload my CV"
+  },
+  {
+    "objectID": "contact.html#teaching-resources",
+    "href": "contact.html#teaching-resources",
+    "title": "Contact",
+    "section": "Teaching resources",
+    "text": "Teaching resources\nIntro Biostatistics Resources\nGitHub repository"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Haley Grant",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\nI can automatically generate a neat publication list from an Excel file and enabling categories and filters.\nCheck Quarto Academic Website Examples and Tips and README.md for more detailed instructions.\n\n\n\nResearcher, Univerisity\nConsultant, Company\nIntern, Institute\n\n\n\n\n\nPhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "Researcher, Univerisity\nConsultant, Company\nIntern, Institute"
+    "text": "E-mail\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nI am an Assistant Professor of Biostatistics and Health Data Science at the University of Pittsburgh School of Public Health.\nMy work focuses on statistics education, large-scale electronic health record and network data analysis, and obesity and cardiometabolic health.\nI am particularly interested in helping students develop statistical reasoning and use statistical methods thoughtfully in public health research.\n\n\n\nPhD, Biostatistics, Johns Hopkins University, 2023\nBA, Mathematics, Cornell University, 2018\n\n\n\n\n\nStatistics education\nLarge-scale electronic health record and network data analysis\nObesity and cardiometabolic health"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
+    "title": "Haley Grant",
     "section": "",
-    "text": "PhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
+    "text": "PhD, Biostatistics, Johns Hopkins University, 2023\nBA, Mathematics, Cornell University, 2018"
   },
   {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "objectID": "index.html#academic-interests",
+    "href": "index.html#academic-interests",
+    "title": "Haley Grant",
+    "section": "",
+    "text": "Statistics education\nLarge-scale electronic health record and network data analysis\nObesity and cardiometabolic health"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Haley Grant",
+    "section": "Teaching",
+    "text": "Teaching\nI teach biostatistics and health data science to students across the University of Pittsburgh School of Public Health, including students in biostatistics, epidemiology, health policy and management, human genetics, and other public health programs.\nMy teaching emphasizes intuition, real data, simulation, visualization, and understanding why statistical methods work.\nLearn more about my teaching →"
+  },
+  {
+    "objectID": "index.html#research-applied-work",
+    "href": "index.html#research-applied-work",
+    "title": "Haley Grant",
+    "section": "Research & applied work",
+    "text": "Research & applied work\nMy collaborative work uses real-world health data to address clinical and public health questions, with a particular focus on large health-system and network datasets and obesity care."
+  },
+  {
+    "objectID": "index.html#teaching-resources",
+    "href": "index.html#teaching-resources",
+    "title": "Haley Grant",
+    "section": "Teaching resources",
+    "text": "Teaching resources\nI develop open-access resources and interactive tools for learning introductory biostatistics and R.\nVisit my Intro Biostatistics Resources →\nVisit my Coding Practice Resources →"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Haley Grant",
+    "section": "Contact",
+    "text": "Contact\nHaley Grant\nAssistant Professor of Biostatistics and Health Data Science\nDepartment of Biostatistics and Health Data Science\nUniversity of Pittsburgh School of Public Health\nhaleyg at pitt dot edu"
   },
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "People",
+    "title": "Students & Mentoring",
     "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+    "text": "I currently advise graduate students completing master’s theses and serve on graduate student committees across several public health programs.\n\n\nReanna Kong\nMS Biostatistics, MS Thesis, expected 2027\nHavannah Tung\nMS Biostatistics, MS Thesis, expected 2027\nSimon Fisher\nBachelor of Philosophy, BPhil Thesis, expected Fall 2026\n\n\n\nGrace Luikart\nMS Biostatistics, 2026"
   },
   {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
+    "objectID": "people.html#graduate-student-advising",
+    "href": "people.html#graduate-student-advising",
+    "title": "Students & Mentoring",
     "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+    "text": "I currently advise graduate students completing master’s theses and serve on graduate student committees across several public health programs.\n\n\nReanna Kong\nMS Biostatistics, MS Thesis, expected 2027\nHavannah Tung\nMS Biostatistics, MS Thesis, expected 2027\nSimon Fisher\nBachelor of Philosophy, BPhil Thesis, expected Fall 2026\n\n\n\nGrace Luikart\nMS Biostatistics, 2026"
   },
   {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+    "objectID": "people.html#committee-service",
+    "href": "people.html#committee-service",
+    "title": "Students & Mentoring",
+    "section": "Committee service",
+    "text": "Committee service\nI have served on master’s and doctoral committees across:\n\nBiostatistics\nEpidemiology\nHuman Genetics\nHealth Policy and Management\nBehavioral and Community Health Sciences\nExercise Physiology\n\nMy committee work has included master’s theses, comprehensive examinations, qualifying examinations, and preliminary examinations."
   },
   {
-    "objectID": "pub-listing.html",
-    "href": "pub-listing.html",
-    "title": "Publications",
+    "objectID": "people.html#undergraduate-mentoring",
+    "href": "people.html#undergraduate-mentoring",
+    "title": "Students & Mentoring",
+    "section": "Undergraduate mentoring",
+    "text": "Undergraduate mentoring\nI have mentored undergraduate students through the Public Health Undergraduate Summer Program.\nRecent placements have included:\n\nKingsley Association\nUnited Way of Southwestern Pennsylvania\nUPMC Center for High Value Healthcare Research and Training"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Teaching Resources",
     "section": "",
-    "text": "Note: * corresponding author;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)"
+    "text": "I develop open-access materials and interactive tools for learning introductory biostatistics and R. I have created these resources for use in class to demonstrate statistical concepts and outside of class for students to review concepts, practice coding, and explore additional examples.\n\n\nInteractive demonstrations and practice activities designed to help students build intuition for foundational biostatistical concepts. The site includes visualizations, simulations, and interactive examples that students can use to explore statistical ideas and see how changing data or assumptions affects the results.\nVisit my Intro Biostatistics Resources\n\n\n\nInteractive R coding exercises designed to give students additional practice applying the programming skills used in introductory biostatistics. The activities focus on common tasks such as working with data, calculating summary statistics, creating visualizations, and applying basic statistical methods.\nVisit my Coding Practice Resources"
   },
   {
-    "objectID": "pub-listing.html#selected-work",
-    "href": "pub-listing.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\n\n\n\nQuantifying the Cost Savings of Global Solar Photovoltaic Supply Chains Helveston, John, Gang He*, and Michael Davidson Oct 26, 2022\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMg=='); return false;\"&gt;2022&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('YXdhcmQ='); return false;\"&gt;award&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aG90LXBhcGVy'); return false;\"&gt;hot-paper&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3VwcGx5LWNoYWlu'); return false;\"&gt;supply-chain&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('dW5pdGVkLXN0YXRlcw=='); return false;\"&gt;united-states&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Y2hpbmE='); return false;\"&gt;china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Z2VybWFueQ=='); return false;\"&gt;germany&lt;/span&gt;\n\n\nHelveston, John, Gang He*, and Michael Davidson. 2022. Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains. Nature 612: 83-87. doi: 10.1038/s41586-022-05316-6.  \n\n\n Preprint  SharedIt  GitHub  Data  \n\n\n Award: IAMC2022 Best Poster Award\n\n\nCoverage: SBU News | GWU News | UCSD News | Nature Research Highlights | E&E News | Foreign Policy | GRID News | PV Magazine | dot.LA | pvbuzz | InnovateLongIsland | Mercom India | China News | Science and Technology Daily\n\n\nInvited presentation: Peking University | Tsinghua University | Harvard University (M.D.) | ITIF (J.H.) | Climate Change Economics Forum\n\n\n\n\nNo matching items\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pub-listing.html#other-peer-reviewed-journal-papers",
-    "href": "pub-listing.html#other-peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Other Peer-reviewed Journal Papers",
-    "text": "Other Peer-reviewed Journal Papers\n\n\n\nLong-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint Zhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong Dec 20, 2021\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMQ=='); return false;\"&gt;2021&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('ZW5lcmd5LW5leHVz'); return false;\"&gt;energy-nexus&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2F0ZXI='); return false;\"&gt;water&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n\nZhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong. 2021. Long-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint. Journal of Cleaner Production 329: 129765. doi: 10.1016/j.jclepro.2021.129765.\n\n\n PDF  GitHub  Supplemental  \n\n\n\n\nNo matching items\n\nPublications – Quarto Academic Publications – Quarto Academic Publications – Quarto Academic Quarto Academic Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He"
-  },
-  {
-    "objectID": "pub-listing.html#peer-reviewed-journal-papers",
-    "href": "pub-listing.html#peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Peer-reviewed Journal Papers",
-    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Quarto Academic Publications – Quarto Academic Publications – Quarto Academic Quarto Academic Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He"
+    "objectID": "resources.html#teaching-resources",
+    "href": "resources.html#teaching-resources",
+    "title": "Teaching Resources",
+    "section": "",
+    "text": "I develop open-access materials and interactive tools for learning introductory biostatistics and R. I have created these resources for use in class to demonstrate statistical concepts and outside of class for students to review concepts, practice coding, and explore additional examples.\n\n\nInteractive demonstrations and practice activities designed to help students build intuition for foundational biostatistical concepts. The site includes visualizations, simulations, and interactive examples that students can use to explore statistical ideas and see how changing data or assumptions affects the results.\nVisit my Intro Biostatistics Resources\n\n\n\nInteractive R coding exercises designed to give students additional practice applying the programming skills used in introductory biostatistics. The activities focus on common tasks such as working with data, calculating summary statistics, creating visualizations, and applying basic statistical methods.\nVisit my Coding Practice Resources"
   }
 ]
