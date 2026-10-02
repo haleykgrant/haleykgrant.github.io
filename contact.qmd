@@ -22,3 +22,5 @@ Pittsburgh, Pennsylvania
 [Intro Biostatistics Resources](https://haleykgrant.github.io/IntroBiostatResources/)
 
 [GitHub repository](https://github.com/haleykgrant/IntroBiostatResources)
+
+[R Coding Practice Resources](https://haleykgrant.github.io/CodingPractice/)

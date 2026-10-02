@@ -20,7 +20,7 @@ about:
       target: _blank
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/haley-grant-3ab085136
+      href: https://www.linkedin.com/in/haley-grant-3ab085136
       target: _blank
 ---
 

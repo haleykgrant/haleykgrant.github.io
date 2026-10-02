@@ -69,10 +69,4 @@ I have also given guest lectures for **PUBHLT 0100: Fundamentals of Public Healt
 
 **Johns Hopkins University Department of Biostatistics | 2023**
 
-## Teaching resources
 
-I develop open-access materials and interactive tools for learning introductory biostatistics and R.
-
-[Visit my Intro Biostatistics Resources](https://haleykgrant.github.io/IntroBiostat)
-
-[Visit my Coding Practice Resources](https://haleykgrant.github.io/CodingPractice/)
